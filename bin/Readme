@@ -1,0 +1,8 @@
+Rules for Creating a Valid Housie Ticket:
+1.The grid must be 3×9.
+2.Each row must contain exactly 5 numbers.
+3.The total numbers per ticket must be 15.
+4.Numbers must fall within their column's allowed range.
+5.Numbers in each column must be sorted vertically (optional but common).
+6.No duplicate numbers.
+
